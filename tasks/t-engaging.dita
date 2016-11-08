@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_kpj_rhr_wx">
+    <title>Creating Engaging Design</title>
+    <shortdesc>An engaging design is important when making a How To Video because the your video's ability to 
+    reel an audience in is ultimately what determines the success of your project.</shortdesc>
+    <taskbody>
+        <context>
+            <p>This task will help you project a confident and succinct image</p>
+        </context>
+        <steps>
+            <step>
+                <cmd><b>State</b> the overall goal of your video.</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>This should outline what you want your audience to learn or accomplish.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd><b>Move forward</b> in small steps, breaking up your overall goal into smaller, more manageable steps.</cmd>
+            </step>
+            <step>
+                <cmd><b>Finish</b> by bringing everything together and showing how your steps contribute to the end goal you 
+                stated.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
